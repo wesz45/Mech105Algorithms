@@ -1,0 +1,2 @@
+# Simpson's Methods
+Matlab function that returns an estimate of the integral of an input set of x and y data over certain bounds, using a combination of Simpson's 1/3 and 3/8 rules as necessary to complete the intervals. Data in x category must be equally spaced. These methods are also sometimes called Kepler's Rule, because of their prior use by Johannes Kepler. For more information about the Numerical approximation being used, see https://en.wikipedia.org/wiki/Simpson%27s_rule.
